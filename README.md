@@ -1,2 +1,2 @@
-this is a break out game.
-in this game we use turtle library.
+This is a break out game.
+In this game we use turtle library.
