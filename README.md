@@ -7,7 +7,7 @@ This is a breakout game implemented in Python 3.10.11.
 1. Clone the repository.
 2. Install the required dependencies, including the Turtle library, using pip package manager. You can do this by running the following command:
    
-   pip install Turtle
+   `pip install Turtle`
 
 3. Navigate to the "breakout" directory.
 
